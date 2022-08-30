@@ -1,3 +1,3 @@
 # admin
-E-commerce 
+E-commerce project by
 django python html 
